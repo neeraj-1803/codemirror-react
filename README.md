@@ -1,3 +1,6 @@
+# CodeEditor
+Uses codemirror component and custom hooks to save the data in localstorage so the data is not lost, to create a codepen like application to write html,css and js and see the result on the fly.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
